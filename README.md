@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/279290651?v=4" alt="nekonuim" width="180" height="180" style="border-radius: 50%;">
+</p>
 
-<!--
-**nekonuim/nekonuim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```
+  [ nekonuim ]   she/it   graphic designer   coder
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### // about
+
+graphic designer who occasionally writes code so she doesn't have to trust other people's tools.
+works mostly in visual design — layouts, palettes, type. sometimes builds things for the web.
+queer, unspecified. online more than offline.
+
+this github is slow sometimes. that's normal.
+
+---
+
+### // tools & stack
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" />
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" />
+</p>
+
+---
+
+### // stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nekonuim&show_icons=true&theme=dark&hide_border=true&title_color=9D8FE0&icon_color=9D8FE0" alt="nekonuim's github stats" />
+</p>
+
+---
+
+### // projects
+
+<!-- add pinned repos here as they come -->
+
+*nothing to show yet.*
+
+---
+
+<p align="center">
+  <sub>she/it · graphic design · coder</sub>
+</p>
