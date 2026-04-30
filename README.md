@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/279290651?v=4" alt="nekonuim" width="180" height="180" style="border-radius: 50%;">
-</p>
-
 ---
 
 ```
