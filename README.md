@@ -9,7 +9,7 @@
 
 graphic designer who occasionally writes code so she doesn't have to trust other people's tools.
 works mostly in visual design — layouts, palettes, type. sometimes builds things for the web.
-queer, unspecified. online more than offline.
+demisexual. online more than offline.
 
 this github is slow sometimes. that's normal.
 
